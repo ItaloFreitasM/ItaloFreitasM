@@ -38,6 +38,14 @@ Sou técnico em redes com experiência em implementação, monitoramento e manut
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/grafana/original-wordmark.svg"
 />
+<img 
+    align="left" 
+    alt="Zabbix"
+    title="Zabbix" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/shady2k/ioBroker.zabbix/HEAD/admin/zabbix.png"
+/>
 <br/>
 <br/>
 
