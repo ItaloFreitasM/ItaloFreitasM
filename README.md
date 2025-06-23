@@ -4,24 +4,6 @@
 
 Sou técnico em redes com experiência em implementação, monitoramento e manutenção de infraestruturas de TI, com foco em desempenho, segurança e alta disponibilidade. Atuo em ambientes corporativos e data centers, sempre buscando eficiência e confiabilidade por meio de boas práticas e automação.
 
-💼 Áreas de Atuação:
-
-- Projetos de rede (LAN, WAN, WLAN)
-- Gerenciamento e configuração de switches, roteadores e firewalls
-- Monitoramento de redes e troubleshooting avançado
-- Segurança de redes e controle de acesso
-
-🛠️ Tecnologias e Ferramentas:
-
-- Redes: Mikrotik, Ubiquiti, Huawei
-- Protocolos: TCP/IP, DHCP, DNS, VLAN, VPN (IPSec/OpenVPN), OSPF, BGP, NAT, SNMP
-- Automação e Monitoramento: Zabbix, Grafana, Prometheus, NetBox, Nmap
-- Sistemas e Scripts: Linux (Ubuntu/Debian/CentOS), Windows Server, Bash, Python
-- Cloud e Virtualização: Proxmox, VMware ESXi, Docker, AWS
-- Versionamento: Git, GitHub, GitLab
-
-📈 Em constante aprendizado de novas tecnologias e práticas DevOps aplicadas à infraestrutura de redes.
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
